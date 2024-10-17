@@ -3,3 +3,4 @@ Employee A    60 K per Annum
 Employee B    40 k per Annum
 Employee C    20K  per annum
 This is As per Company standards
+My Company has appraisal policy.
