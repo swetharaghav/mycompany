@@ -1,5 +1,5 @@
 Salary file details
-Employee A    60 K per Annum
-Employee B    40 k per Annum
-Employee C    20K  per annum
+Employee A    75 K per Annum
+Employee B    45 k per Annum
+Employee C    25K  per annum
 This is As per Company standards
