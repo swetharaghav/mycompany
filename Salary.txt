@@ -1,1 +1,14 @@
 Salary file details updated
+
+Finance Department
+Employee A    75 K per Annum
+Employee B    45 k per Annum
+Employee C    25K  per annum
+
+HR Department 
+Employee A    70 K per Annum
+Employee B    50 k per Annum
+Employee C    30K  per annum
+
+This is As per Company standards
+

@@ -1,0 +1,26 @@
+this is Employee folder list .
+Now the employee strenghth grown up to 200 to 10000
+Based on Analysis it is growing .
+
+=======
+Story 2 
+here is the scenatio of all global employees.
+cbkadmck
+chckjjcka
+jcjhkjjklk
+
+it is in pending and has to be continued later....
+
+>>>>>>> Stashed changes
+
+
+
+
+Changes for stash 
+this is started.
+tools 
+{
+maven;
+apache tomacat;
+git hub ;
+}
